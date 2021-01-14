@@ -3,6 +3,6 @@ public class Department {
     private String name;
     //sas
     //sasasa
-    private String age;
+    private String age2;
 
 }
